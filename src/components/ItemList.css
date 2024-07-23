@@ -1,0 +1,32 @@
+
+  /* styles/ItemList.css */
+
+.item-list {
+    max-width: 600px; /* Limit width of item list */
+    margin: auto; /* Center align item list */
+    padding: 20px;
+  }
+  
+  .end-of-list {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 50px; /* Space for the loader */
+  }
+  
+  .loader {
+    text-align: center;
+    margin: 20px 0;
+    font-weight: bold;
+  }
+  
+  /* Item Styles */
+  .item {
+    background-color: #f0f0f0;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 100%;
+  }
+  
+  
